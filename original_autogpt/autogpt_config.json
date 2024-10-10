@@ -1,0 +1,7 @@
+{
+    "EXECUTE_LOCAL_COMMANDS": true,
+    "RESTRICT_TO_WORKSPACE": true,
+    "LOG_LEVEL": "DEBUG",
+    "LOG_FORMAT": "simple"
+  }
+  
